@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+main {
+    width: 90%;
+    max-width: 800px;
+    margin: 32px auto;
+    color: aqua;
+}
+
+header {
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: cadetblue;
+}
